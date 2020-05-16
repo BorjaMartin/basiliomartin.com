@@ -1,0 +1,5 @@
+[05-Nov-2017 13:45:25 CST6CDT] mail() on [/home/alfons45/public_html/basiliomartin.com/send.php:24]: To: bmartinc6@gmail.com -- Headers: From:    X-Mailer: PHP/7.0.24   Mime-Version: 1.0   Content-Type: text/plain
+[05-Nov-2017 13:47:17 CST6CDT] mail() on [/home/alfons45/public_html/basiliomartin.com/send.php:24]: To: bmartinc6@gmail.com -- Headers: From:    X-Mailer: PHP/7.0.24   Mime-Version: 1.0   Content-Type: text/plain
+[05-Nov-2017 13:54:11 CST6CDT] mail() on [/home/alfons45/public_html/basiliomartin.com/send.php:24]: To: bmartinc6@gmail.com -- Headers: From:    X-Mailer: PHP/7.0.24   Mime-Version: 1.0   Content-Type: text/plain
+[05-Nov-2017 13:57:00 CST6CDT] mail() on [/home/alfons45/public_html/basiliomartin.com/send.php:24]: To: bmartinc6@gmail.com -- Headers: From: bmartinc6@gmail.com   X-Mailer: PHP/7.0.24   Mime-Version: 1.0   Content-Type: text/plain
+[05-Nov-2017 13:58:16 CST6CDT] mail() on [/home/alfons45/public_html/basiliomartin.com/send.php:24]: To: bmartinc6@gmail.com -- Headers: From: bmartinc6@gmail.com   X-Mailer: PHP/7.0.24   Mime-Version: 1.0   Content-Type: text/plain

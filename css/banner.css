@@ -1,0 +1,72 @@
+body {
+  background-color:black;
+  margin: 0;
+  padding: 0;
+  font-family: Signika Negative, sans-serif;
+  font-weight: 300;
+}
+html, body {
+  height: 100%;
+}
+#demo {
+  display:table;
+      width:100%;
+      height:auto;
+      margin-left:10px;
+}
+#field {
+  position:relative;
+  display:table-cell;
+  height: 100%;
+  	overflow:hidden;
+  text-align: center;
+  vertical-align: middle;
+        width:100%;
+        height:auto;
+        margin-left:10px;
+}
+#box {
+  color: black;
+  font-size:24px;
+  padding: 10px 16px;
+  border: 2px solid black;
+  background: #9af600;
+  background: linear-gradient(to bottom, #9af600 0%,#71B200 100%);
+  display:inline-block;
+  border-radius: 10px;
+        width:100%;
+        height:auto;
+        margin-left:10px;
+}
+#box .img-responsive {
+      position: relative;
+      width: 100%;
+    }
+
+      #header .img-responsive img {
+        width:100%;
+        height:auto;
+        margin-left:10px;
+      }
+
+
+#field p {
+  width:100%;
+  position: absolute;
+  color: #999;
+  top: 0px;
+  padding: 0px 20px;
+  text-align: left;
+  z-index: -1000;
+        
+}
+#controls {
+  position:absolute;
+  color: #999;
+  width: 100%;
+  bottom: 20px;
+  text-align: center;
+}
+button {
+  margin: 2px;
+}
